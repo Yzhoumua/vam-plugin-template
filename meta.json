@@ -1,15 +1,15 @@
 { 
    "licenseType" : "CC BY-SA", 
-   "creatorName" : "Author", 
-   "packageName" : "MyPlugin", 
-   "includeVersionsInReferences" : "true", 
-   "description" : "v0.0.0 MyPlugin Description", 
-   "credits" : "", 
-   "instructions" : "", 
-   "promotionalLink" : "https://github.com/Author/MyPlugin", 
+   "creatorName" : "Paper",
+   "packageName" : "PaperTrackerPlugin",
+   "includeVersionsInReferences" : "true",
+   "description" : "v0.0.0 Receive comprehensive face and eye tracking via VRCFT OSC",
+   "credits" : "",
+   "instructions" : "",
+   "promotionalLink" : "https://github.com/Author/PaperTrackerPlugin",
    "programVersion" : "1.19.0.5", 
    "contentList" : [ 
-      "Custom\\Scripts\\Author\\MyPlugin\\MyPlugin.cs"
+      "Custom\\Scripts\\Paper\\PaperTrackerPlugin\\PaperTrackerPlugin.cs"
    ], 
    "dependencies" : { 
    }
