@@ -69,7 +69,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="MyPlugin.cs" />
+    <Compile Include="PaperTrackerPlugin.cs" />
   </ItemGroup>
 
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
